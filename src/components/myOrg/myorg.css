@@ -1,0 +1,10 @@
+.myorg {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin: 40px 0;
+}
+h3 {
+  font-size: 2rem;
+  font-weight: bold;
+}
